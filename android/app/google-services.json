@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1078751787583",
+    "project_id": "ecomapp-e267b",
+    "storage_bucket": "ecomapp-e267b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078751787583:android:b1a744bb1597abcaafd68a",
+        "android_client_info": {
+          "package_name": "com.example.ecomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078751787583-q68dkvh7hc6e29l9f9gqhijtpl5k5gbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecomapp",
+            "certificate_hash": "c031fffbdec5d91565e01a30dbaba7dc48e4e837"
+          }
+        },
+        {
+          "client_id": "1078751787583-cp77hkb094r0v2frfhtghd6entvunrtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG8CgtxQefgr0sgAbWFoMHEMrZ0XnHPZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078751787583-cp77hkb094r0v2frfhtghd6entvunrtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078751787583-9f49gqob0ae8mnjgkv986sav2djq4vmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078751787583:android:9f5103374ae41993afd68a",
+        "android_client_info": {
+          "package_name": "com.example.ecomapp_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078751787583-cp77hkb094r0v2frfhtghd6entvunrtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG8CgtxQefgr0sgAbWFoMHEMrZ0XnHPZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078751787583-cp77hkb094r0v2frfhtghd6entvunrtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078751787583-9f49gqob0ae8mnjgkv986sav2djq4vmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
